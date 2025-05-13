@@ -1,0 +1,4 @@
+{
+  "name": "@keycloak/keycloak-admin-client",
+  "packageManager": "yarn@4.9.1"
+}

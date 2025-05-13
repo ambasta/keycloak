@@ -1,0 +1,8 @@
+{
+  "name": "@keycloak/keycloak-admin-ui",
+  "packageManager": "yarn@4.9.1",
+  "dependencies": {
+    "@keycloak/keycloak-admin-client": "workspace:^",
+    "@keycloak/keycloak-ui-shared": "workspace:^"
+  }
+}
